@@ -159,8 +159,8 @@
                     <connection-url>jdbc:mysql://mysql:3306/sampledb</connection-url>
                     <driver>mysql</driver>
                     <security>
-                        <user-name>user35Q</user-name>
-                        <password>BcPW5bfG24YOdXRB</password>
+                        <user-name>userM5S</user-name>
+                        <password>3bYY5nIGAXkI1kks</password>
                     </security>
                 </datasource>
                 <drivers>
